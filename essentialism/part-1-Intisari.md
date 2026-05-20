@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/esensialisme.jpg" width="250"/>
+  <img src="../assets/Esensialisme.jpg" width="250"/>
 </p>
 
 # 🌱 Esensialisme — Bagian 1: Intisari
