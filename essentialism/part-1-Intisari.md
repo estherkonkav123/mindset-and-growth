@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51a47987-64e7-422e-b3b7-ee2a0d8da26d" width="180" alt="Cover Buku Esensialisme"/>
 </p>
+
 # 🌱 Esensialisme — Bagian 1: Intisari
 > *"Less but better."* — Greg McKeown
 
