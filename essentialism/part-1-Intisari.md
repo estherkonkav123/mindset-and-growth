@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="../assets/essentialism-cover.jpg" width="250"/>
+  <img src="../assets/esensialisme.jpg" width="250"/>
 </p>
 
-# 📘 Esensialisme — Bagian 1: Intisari
 # 🌱 Esensialisme — Bagian 1: Intisari
 > *"Less but better."* — Greg McKeown
 
