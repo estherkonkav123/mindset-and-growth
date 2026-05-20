@@ -1,4 +1,4 @@
-# 🌱 Esensialisme — Bagian 1: Intisari
+# 🌱 Esensialisme (Greg McKeown) — Bagian 1: Intisari
 > *"Less but better."* — Greg McKeown
 
 ![Status](https://img.shields.io/badge/Book%20Summary-Part%201-success)
